@@ -1,2 +1,2 @@
 # Portfolio-Matematica
-Este é o meu Portfólio de Matemática - 1º Informática 2023
+Este é o Portfólio de Matemática do João Fassina - 1º Ano Informática 2023
